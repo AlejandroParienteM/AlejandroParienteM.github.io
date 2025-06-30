@@ -25,7 +25,7 @@ class MatrixLove {
             "Drolicoco", "Mapirosa", "Amor", "Destino",
             "Radiante", "Amorcito", "Frutilla", "Reina",
             "Luz", "Encantadora", "Mapirosa", "Adorable",
-            , "Maravillosa", "Jhenisse", "Fascinante",
+            "Maravillosa", "Jhenisse", "Fascinante",
             "Cautivadora", "Inteligente", "Aliss", "Dulce",
             "Tierna", "Delicada", "Elegante", "Graciosa",
             "Alisson", "Preciosa", "Única", "Especial",
